@@ -12,7 +12,7 @@ struct Biblioteca {
 };
 
 // Functie de initializare
-struct Biblioteca initializare(int id, int nrCarti, char* nume, float suprafata, char sector) {
+struct Biblioteca initializare(int id, int nrCarti, const char* nume, float suprafata, char sector) {
 	struct Biblioteca s;
 	s.id = id;  // initializam id-ul
 	s.nrCarti = nrCarti;

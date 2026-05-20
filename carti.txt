@@ -1,0 +1,9 @@
+5,45.50,Enigma Otiliei
+2,30.00,Ion
+8,55.99,Morometii
+1,25.75,Baltagul
+4,40.00,Ultima noapte de dragoste
+7,60.50,Moara cu noroc
+3,35.25,Amintiri din copilarie
+6,48.90,Padurea spanzuratilor
+10,70.00,La tiganci

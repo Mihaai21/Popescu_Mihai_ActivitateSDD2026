@@ -1,0 +1,10 @@
+1,16,3500,Lenovo,IdeaPad,A
+2,32,7200,Asus,ROG,B
+3,8,2500,HP,Pavilion,C
+4,16,5100,Dell,Inspiron,D
+5,64,12000,Apple,MacBook,E
+6,32,8300,Lenovo,Legion,F
+7,16,4600,Acer,Nitro,G
+8,8,2200,Asus,VivoBook,H
+9,32,9100,MSI,Stealth,I
+10,16,3900,HP,Victus,J

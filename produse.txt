@@ -1,0 +1,7 @@
+1,1200,Laptop
+2,300,Mouse
+3,800,Tastatura
+4,2500,Telefon
+5,150,Incarcator
+6,400,Boxa
+7,3200,Monitor

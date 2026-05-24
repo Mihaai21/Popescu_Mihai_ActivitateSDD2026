@@ -1,0 +1,10 @@
+1,Andrei Popa,sergent,7,4500,88
+2,Mihai Ionescu,caporal,3,3500,72
+3,Vlad Georgescu,locotenent,10,6200,91
+4,Radu Marin,soldat,1,2800,60
+5,Alex Dumitru,sergent,5,4700,88
+6,Cristian Ene,maior,15,8000,95
+7,Ionut Pavel,caporal,4,3700,75
+8,George Stan,locotenent,8,6000,85
+9,Florin Matei,sergent,9,5000,92
+10,Daniel Rusu,soldat,2,3000,67
